@@ -55,3 +55,108 @@
 ![](https://img.shields.io/github/stars/theayushcode379?style=for-the-badge&logo=github&label=Stars&color=4F46E5)
 
 </div>
+<!-- ========================================================= -->
+<!--                      ABOUT ME                             -->
+<!-- ========================================================= -->
+
+# 💫 About Me
+
+I'm **Ayush Thakare**, a **B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)** student at **D Y Patil International University, Pune**.
+
+I'm passionate about building software that combines **problem-solving, clean engineering practices, and Artificial Intelligence**. My interests span **Full-Stack Development**, **Machine Learning**, **Backend Systems**, and **Data Engineering**.
+
+I enjoy transforming ideas into practical applications while continuously improving my understanding of software architecture, algorithms, and modern development tools.
+
+### Open To
+
+- Software Engineering Internships
+- AI / Machine Learning Internships
+- Full Stack Development Projects
+- Open Source Contributions
+- Research & Collaborative Development
+
+---
+
+<!-- ========================================================= -->
+<!--                    TECH STACK                             -->
+<!-- ========================================================= -->
+
+# ⚙️ Tech Stack
+
+## Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+
+</p>
+
+---
+
+## Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+</p>
+
+---
+
+## Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+---
+
+## AI / Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</p>
+
+---
+
+## Cloud & Deployment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify"/>
+
+</p>
+
+---
+
+## Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures-In%20Progress-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Growing-7C3AED?style=for-the-badge"/>
+
+</p>
