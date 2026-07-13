@@ -59,7 +59,7 @@
 <!--                      ABOUT ME                             -->
 <!-- ========================================================= -->
 
-# 💫 About Me
+# 💀 About Me
 
 I'm **Ayush Thakare**, a **B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)** student at **D Y Patil International University, Pune**.
 
@@ -159,4 +159,11 @@ I enjoy transforming ideas into practical applications while continuously improv
 
 <img src="https://img.shields.io/badge/Machine%20Learning-Growing-7C3AED?style=for-the-badge"/>
 
+</p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/theayushcode379/theayushcode379/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
