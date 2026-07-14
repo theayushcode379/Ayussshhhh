@@ -160,4 +160,3 @@ I enjoy transforming ideas into practical applications while continuously improv
 <img src="https://img.shields.io/badge/Machine%20Learning-Growing-7C3AED?style=for-the-badge"/>
 
 </p>
----
