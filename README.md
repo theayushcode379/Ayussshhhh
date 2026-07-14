@@ -59,7 +59,7 @@
 <!--                      ABOUT ME                             -->
 <!-- ========================================================= -->
 
-# 💀 About Me
+#😋⚡  About Me
 
 I'm **Ayush Thakare**, a **B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)** student at **D Y Patil International University, Pune**.
 
