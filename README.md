@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<a href="https://nimble-dusk-a47157.netlify.app" target="_blank">
+<a href="https://ayusshh-thakare.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
